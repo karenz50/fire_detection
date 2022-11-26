@@ -1,2 +1,2 @@
 # fire_detection
-Using TensorFlow for fire and smoke detection
+This is my AP Research project using TensorFlow for fire and smoke detection in images.
