@@ -6,3 +6,8 @@ The two datasets were curated from various sources, including readers Gautam Kum
 
 ### Fire Dataset
 The fire dataset includes various images of forest fires in nature.
+
+### Non-Fire Dataset
+The non-fire dataset includes various photographs of nature, as well as various images including colors typically found in fires such as red or orange.
+
+## Project Structure
