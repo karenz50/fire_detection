@@ -13,5 +13,7 @@ The non-fire dataset includes various photographs of nature, as well as various 
 ## Project Structure
 The Jupyter Notebook accesses a folder named content, which is the root runtime directory in Google Colabratory. After uploading the datasets to Google Drive, the drive was then mounted to the filespace. The fire and non-fire datasets are located in folders named Fire Dataset and Non-Fire Dataset, respectively.
 
+The final architecture of the trained model is stored in fire_model.h5.
+
 ## Credits
 This is a [link](https://drive.google.com/file/d/17Fddz4ELIN5jLiv9EEhpdGchIjqnxV_Z/view?usp=share_link) to my sources.
