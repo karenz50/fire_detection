@@ -15,5 +15,8 @@ The Jupyter Notebook accesses a folder named content, which is the root runtime 
 
 The final architecture of the trained model is stored in fire_model.h5. When using the pretrained model architecture on a video clip, the files were manually uploaded to Colab.
 
+## Training
+The model was trained using the model_train() method of Keras.
+
 ## Credits
 This is a [link](https://drive.google.com/file/d/17Fddz4ELIN5jLiv9EEhpdGchIjqnxV_Z/view?usp=share_link) to my sources.
